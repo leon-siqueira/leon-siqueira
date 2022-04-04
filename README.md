@@ -1,4 +1,10 @@
-### Hi there 👋
+# Olá, I'm Leon
+
+
+
+![favicon](https://user-images.githubusercontent.com/92833638/161398340-9e0cbf31-acfe-4b2f-ae16-136121bb67d2.png)
+
+## I'm a programmer
 
 <!--
 **leon-siqueira/leon-siqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
